@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fb516051-d77d-417d-b4a2-8bb409bb82d1" name="Default Changelist" comment="" />
+    <list default="true" id="fb516051-d77d-417d-b4a2-8bb409bb82d1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,8 +15,12 @@
       <executable />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2" />
   <component name="ProjectId" id="1WSxlfJckfl2Obor7FRcy3sato5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -47,7 +54,11 @@
       <updated>1579156949417</updated>
       <workItem from="1579156950655" duration="3012000" />
       <workItem from="1579167368659" duration="430000" />
-      <workItem from="1579182118696" duration="7800000" />
+      <workItem from="1579182118696" duration="8162000" />
+      <workItem from="1579221138277" duration="1391000" />
+      <workItem from="1579340742573" duration="19179000" />
+      <workItem from="1579486085243" duration="2479000" />
+      <workItem from="1579505661183" duration="8931000" />
     </task>
     <servers />
   </component>
@@ -63,9 +74,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="518" y="288" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1579157152341" />
-    <state x="378" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1579182423046">
+    <state x="378" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1579505674992">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="378" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1579182423046" />
+    <state x="378" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1579505674992" />
   </component>
 </project>
